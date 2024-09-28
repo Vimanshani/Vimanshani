@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Vimanshani, an undergraduate student at the University of Kelaniya, Sri Lanka, pursuing a degree in Computer Science with a focus on Artificial Intelligence.
+I am Vimanshani, an undergraduate student at the University of Kelaniya, Sri Lanka, pursuing a degree of Computer Science with a focus on Artificial Intelligence.
 
 🔭 I’m currently working on a chess game  project using C#.<br>
 🌱 I’m currently learning Data structures,Machine learning basics,NLP in my university.<br>
