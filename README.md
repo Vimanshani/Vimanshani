@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+🔭 I’m currently working on a chess game  project using C#.<br>
+🌱 I’m currently learning Data structures,Machine learning basics,NLP in my university.<br>
+👯 I’m looking to collaborate on AI and Programming  based projects.
+
+
+
+
+
+
 <!--
 **Vimanshani/Vimanshani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
