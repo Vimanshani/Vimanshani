@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am Vimanshani, an undergraduate student at the University of Kelaniya, Sri Lanka, pursuing a degree of Computer Science with a focus on Artificial Intelligence.
 
-🔭 I’m currently working on a chess game  project https://github.com/Vimanshani/Chessgame.git using C#.<br>
+🔭 I’m currently working on a image classification  project, https://github.com/Vimanshani/Chessgame.git .<br>
 🌱 I’m currently learning Theory of automation,Digital Image Processing, Coputer Graphics and so on in my university.<br>
 👯 I’m looking to collaborate on AI and Programming  based projects.
 
