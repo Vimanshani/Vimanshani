@@ -2,9 +2,6 @@
 <h1 align="center">Hi there 👋, I'm Pabodha Vimanshani</h1>
 <h3 align="center">💻 An undergraduate student at the University of Kelaniya, Sri Lanka, pursuing a degree of Computer Science with a focus on Artificial Intelligence. 💡</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vimanshani&label=Profile%20views&color=0e75b6&style=flat" alt="Vimanshani" />
-</p>
 
 ---
 
