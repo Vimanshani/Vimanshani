@@ -62,7 +62,6 @@
   <img src="https://img.shields.io/badge/-Code::Blocks-0095D5?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SWI-Prolog-BF0000?style=flat-square" />
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-Jupyter-DA5B0B?style=flat-square&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
