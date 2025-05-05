@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there 👋, I'm Pabodha Vimanshani</h1>
+<h1 align="center">Hi there 👋, I'm Pabodha Wimanshani</h1>
 <h3 align="center">💻 An undergraduate student at the University of Kelaniya, Sri Lanka, pursuing a degree of Computer Science with a focus on Artificial Intelligence. 💡</h3>
 
 
