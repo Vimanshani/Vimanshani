@@ -5,7 +5,7 @@
 
 ---
 
-- ### 🔭 I’m currently working on a image classification  project, 
+
 - 🌱 I’m currently learning Theory of automation,Digital Image Processing, Coputer Graphics and so on in my university.
 - 👯 I’m looking to collaborate on AI and Programming  based projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vimanshani-kariyapperuma)
